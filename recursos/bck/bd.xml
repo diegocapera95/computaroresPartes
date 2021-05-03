@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <computadores>
+      <descripcion>DELL XPS, 2018, 15", AMD Intel Core i7, 16GB Ram</descripcion>
+      <nombre>XPS 15 9570 (X)</nombre>
+      <partes>
+        <nombre>Procesador (X)</nombre>
+        <descripcion>Intel Core i5 8th Generación</descripcion>
+      </partes>
+      <partes>
+        <nombre>Memoria (X)</nombre>
+        <descripcion>16GB DDR4, 2400MHz</descripcion>
+      </partes>
+   </computadores>
+   <computadores>
+      <descripcion>HP, 2018, 14", Ryzen 3, 8GB Ram</descripcion>
+      <nombre>HP 14 cm0008lm (X)</nombre>
+      <partes>
+        <nombre>Procesador (X)</nombre>
+        <descripcion>AMD Ryzen 3 2200U</descripcion>
+      </partes>
+      <partes>
+        <nombre>Memoria (X)</nombre>
+        <descripcion>8GB DDR4, 2666MHz</descripcion>
+      </partes>
+   </computadores>
+</root>

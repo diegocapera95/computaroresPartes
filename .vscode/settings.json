@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintPath": "C:\\Users\\elmpp\\AppData\\Roaming\\Python\\Python37\\Scripts\\pylint.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "git.ignoreLimitWarning": true
+}

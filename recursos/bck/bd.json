@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "XPS 15 9570 (J)",
+        "descripcion": "DELL XPS, 2018, 15\", AMD Intel Core i7, 16GB Ram",
+        "partes": [
+            {
+                "nombre": "Procesador (J)",
+                "descripcion": "Intel Core i5 8th Generación"
+            },
+            {
+                "nombre": "Memoria (J)",
+                "descripcion": "16GB DDR4, 2400MHz"
+            }
+        ]
+    },
+    {
+        "nombre": "HP 14 cm0008lm (J)",
+        "descripcion": "HP, 2018, 14\", Ryzen 3, 8GB Ram",
+        "partes": [
+            {
+                "nombre": "Procesador (J)",
+                "descripcion": "AMD Ryzen 3 2200U"
+            },
+            {
+                "nombre": "Memoria (J)",
+                "descripcion": "8GB DDR4, 2666MHz"
+            }
+        ]
+    }
+]
